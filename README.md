@@ -51,8 +51,6 @@ SecureChat/
 ├── server.py
 ├── templates/
 │   └── index.html
-├── static/
-├── screenshots/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
