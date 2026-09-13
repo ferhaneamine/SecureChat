@@ -87,17 +87,6 @@ http://127.0.0.1:5000
 
 To test multiple users, open the application in multiple browser tabs and connect with a different username in each tab.
 
-## Screenshots
-
-Add screenshots of the application to the `screenshots/` folder and reference them here:
-
-```markdown
-![SecureChat Login](screenshots/login.png)
-
-![SecureChat Chat](screenshots/chat.png)
-
-![Crypto Inspector](screenshots/crypto-inspector.png)
-```
 
 ## Limitations
 
